@@ -1,0 +1,13 @@
+{
+    "total_files": 1,
+    "processed_files": 1,
+    "cry_detected": 0,
+    "not_cry_detected": 1,
+    "results": [
+        {
+            "file": "audio.wav",
+            "prediction": "Not cry",
+            "probability": 0.40651785714285715
+        }
+    ]
+}

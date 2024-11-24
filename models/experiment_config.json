@@ -1,0 +1,12 @@
+{
+    "random_seed": 42,
+    "model_type": "rf",
+    "best_parameters": {
+        "max_depth": 10,
+        "min_samples_split": 2,
+        "n_estimators": 100
+    },
+    "train_size": 711,
+    "val_size": 89,
+    "test_size": 89
+}
